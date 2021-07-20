@@ -2,7 +2,7 @@
 
 ### Data Colection
 - 3 files are used namely listings.csv, calendar.csv and reviews.csv. All are collected from the Airbnb website: http://insideairbnb.com/get-the-data.html
-### Database structured
+### Database structured (SQL)
 - The table listings, calendar and reviews are structured under a series of carefully considered criteria and splited according to the normalization rule and practicality of the database management.
 
 
