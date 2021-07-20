@@ -1,6 +1,6 @@
 # Airbnb
 ### Database structured
--The table listing, calendar and reviews are structured under a series of carefully considered criteria and splited according to the normalization rule and practicality of the database management.
+- The table listing, calendar and reviews are structured under a series of carefully considered criteria and splited according to the normalization rule and practicality of the database management.
 
 
 ### Gradient Boosted Results (Python)
