@@ -11,8 +11,8 @@
 
 ### Solutions to boost Hosts Performance.
 - Increase the acceptance rate of the rental. Low performers rejects 45% of the time while Top performers always accept.
-- Be responsive most of the top performer hosts always giving response within an hour about 91% of all the time.
-- Always response the conversations. In average, Top performers answered almost 99% of the time.
+- Be responsive, most of the top performer hosts always giving response within an hour about 78% of all the time.
+- Always response the conversations. In average, Top performers answered almost 98% of the time.
 - Instant Bookable Features should be activated. 
 
 - Based from Gradient Boosting Algorithm, the model suggested that to raise the listing price, hosts could improve maximum capacity, number of reviews and number of amenities. 
